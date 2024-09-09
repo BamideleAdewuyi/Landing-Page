@@ -1,6 +1,6 @@
-* {
+/* * {
     outline: 2px solid red;
-}
+} */
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -29,7 +29,7 @@ ul {
     margin: 0;
     padding: 0;
     display: flex;
-    gap: 8px;
+    gap: 24px;
 }
 
 a {
