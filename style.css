@@ -44,12 +44,16 @@ a {
     background-color: #1f2937;
 }
 
+h1 {
+    font-size: 48px;
+}
+
 .hero {
     display: flex;
     flex-direction: column;
     width: 50%;
     outline: 4px solid green;
-    /* align-items: center; */
+    align-items: flex-start;
 }
 
 .first-image {
