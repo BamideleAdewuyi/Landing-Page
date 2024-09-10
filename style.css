@@ -56,11 +56,17 @@ h1 {
     align-items: flex-start;
 }
 
+.hero-secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .first-image {
     display: flex;
     justify-content: center;
     width: 50%;
 }
+
 .murmuration {
     display: flex;
     max-height: 200px;
