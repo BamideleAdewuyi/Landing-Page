@@ -40,7 +40,7 @@ a {
 
 .section-one {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     background-color: #1f2937;
     height: 460px;
 }
@@ -68,7 +68,7 @@ a {
 
 .first-image {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     width: 50%;
 }
 
