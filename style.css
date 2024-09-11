@@ -50,7 +50,6 @@ a {
     flex-direction: column;
     width: 50%;
     align-items: flex-start;
-    outline: 4px solid green;
     margin-bottom: auto;
     max-width: 400px;
     margin-left: 177px;
@@ -77,4 +76,8 @@ a {
     display: flex;
     max-height: 200px;
     padding: 24px;
+}
+
+button {
+    background-color: #3883f6;
 }
