@@ -38,10 +38,13 @@ a {
     text-decoration: none;
   }
 
+.section-one {
+    background-color: #1f2937;
+}
+
 .section-one, .section-two {
     display: flex;
     justify-content: space-evenly;
-    background-color: #1f2937;
     height: 460px;
 }
 
