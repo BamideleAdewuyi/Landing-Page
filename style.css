@@ -82,6 +82,7 @@ button {
     background-color: #3883f6;
     color: white;
     border-radius: 8px;
-    padding: 5px;
+    padding: 5px 25px 5px 25px;
     font-family: 'Roboto', sans-serif;
+    font-weight: 900;
 }
