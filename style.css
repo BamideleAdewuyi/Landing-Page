@@ -81,4 +81,7 @@ a {
 button {
     background-color: #3883f6;
     color: white;
+    border-radius: 8px;
+    padding: 5px;
+    
 }
