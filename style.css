@@ -48,7 +48,6 @@ a {
     display: flex;
     flex-direction: column;
     width: 50%;
-    outline: 4px solid green;
     align-items: flex-start;
 }
 
@@ -60,11 +59,12 @@ a {
 .hero-secondary-text {
     font-size: 18px;
     color: #e5e7eb;
+    display: flex;
 }
 
 .first-image {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     width: 50%;
 }
 
