@@ -1,6 +1,6 @@
-* {
+/* * {
     outline: 2px solid red;
-}
+} */
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -49,6 +49,10 @@ a {
     flex-direction: column;
     width: 50%;
     align-items: flex-start;
+    margin-top: auto;
+    margin-bottom: auto;
+    max-width: 400px;
+    margin-left: 177px;
 }
 
 .hero-main-text {
