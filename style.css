@@ -93,4 +93,5 @@ button {
 
 .information{
     display: flex;
+    flex-direction: column;
 }
