@@ -94,7 +94,6 @@ button {
 .information {
     display: flex;
     flex-direction: column;
-    outline: 4px solid green;
 }
 
 .information-header {
@@ -107,7 +106,8 @@ button {
 
 .pairs {
     display: flex;
-    outline: 4px solid orange;
+    outline: 4px solid green;
+    padding: 24px;
 }
 
 .pair {
