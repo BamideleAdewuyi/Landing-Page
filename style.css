@@ -107,4 +107,12 @@ button {
 
 .pairs {
     display: flex;
+    outline: 4px solid orange;
 }
+
+.pair {
+    display: flex;
+    flex-direction: column;
+}
+
+
