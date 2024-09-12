@@ -1,6 +1,6 @@
-/* * {
+* {
     outline: 2px solid red;
-} */
+}
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -91,7 +91,7 @@ button {
     font-weight: 900;
 }
 
-.information{
+.information {
     display: flex;
     flex-direction: column;
 }
