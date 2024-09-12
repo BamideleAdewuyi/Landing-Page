@@ -97,8 +97,11 @@ button {
     outline: 4px solid green;
 }
 
-.pairs {
+.information-header {
     display: flex;
-    
+    justify-content: center;
 }
 
+.pairs {
+    display: flex;
+}
