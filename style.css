@@ -109,7 +109,7 @@ button {
     padding: 24px;
     outline: 4px solid green;
     justify-content: space-evenly;
-    width: 900px;
+    width: 1000px;
 }
 
 .pair {
@@ -118,6 +118,10 @@ button {
     align-items: center;
 }
 
+.subtext {
+    text-align: center;
+    width: 150px;
+}
 
 
 
