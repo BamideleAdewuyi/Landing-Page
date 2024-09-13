@@ -43,9 +43,12 @@ a {
 }
 
 .section-one, .section-two, .section-three {
+    height: 460px;
+}
+
+.section-one, .section-two, .section-three, .section-four {
     display: flex;
     justify-content: space-evenly;
-    height: 460px;
 }
 
 .hero {
