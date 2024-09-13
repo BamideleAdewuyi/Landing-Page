@@ -164,3 +164,9 @@ button {
     justify-content: space-evenly;
     background-color: #3883f6;
 }
+
+.signup-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
