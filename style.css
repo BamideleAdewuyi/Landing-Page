@@ -130,13 +130,17 @@ button {
 .inspiring-quote {
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .quote {
+    width: 800px;
+    text-align: center;
     font-size: 36px;
     font-weight: 300px;
     color: #1f2937;
     font-style: italic;
+    /* border-width: 0; */
 }
 
 .attribution {
