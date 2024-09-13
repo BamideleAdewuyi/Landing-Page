@@ -178,4 +178,7 @@ button {
 
 .action-button {
     outline: 2px solid white;
+    height: 30px;
+    width: 100px;
+    align-self: center;
 }
