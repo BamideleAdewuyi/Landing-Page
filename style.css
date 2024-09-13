@@ -1,6 +1,6 @@
-* {
+/* * {
     outline: 2px solid red;
-}
+} */
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -140,12 +140,13 @@ button {
     font-weight: 300px;
     color: #1f2937;
     font-style: italic;
-    /* border-width: 0; */
+    margin: 0;
 }
 
 .attribution {
     display: flex;
     justify-content: flex-end;
+    margin: 0;
 }
 
 
