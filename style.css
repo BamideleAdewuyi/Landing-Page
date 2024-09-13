@@ -1,6 +1,6 @@
-/* * {
+* {
     outline: 2px solid red;
-} */
+}
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -42,7 +42,7 @@ a {
     background-color: #1f2937;
 }
 
-.section-one, .section-two {
+.section-one, .section-two, .section-three {
     display: flex;
     justify-content: space-evenly;
     height: 460px;
