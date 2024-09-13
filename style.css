@@ -107,7 +107,6 @@ button {
 .pairs {
     display: flex;
     padding: 24px;
-    outline: 4px solid green;
     justify-content: space-evenly;
     width: 1000px;
 }
@@ -121,7 +120,11 @@ button {
 .subtext {
     text-align: center;
     width: 150px;
+    font-family: 'Roboto', sans-serif;
 }
 
+.section-three {
+    background-color: #e5e7eb;
+}
 
 
