@@ -9,7 +9,7 @@ body {
     margin: 0;
   }
 
-.header {
+.header, .footer {
     height: 72px; 
     background: #1f2937;
     color: white;
