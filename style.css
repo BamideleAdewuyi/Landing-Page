@@ -134,6 +134,9 @@ button {
 
 .quote {
     font-size: 36px;
+    font-weight: 300px;
+    color: #1f2937;
+    font-style: italic;
 }
 
 
