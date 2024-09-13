@@ -139,4 +139,9 @@ button {
     font-style: italic;
 }
 
+.attribution {
+    display: flex;
+    justify-content: flex-end;
+}
+
 
