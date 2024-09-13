@@ -153,4 +153,6 @@ button {
     font-weight: 900;
 }
 
-
+.call-to-action {
+    display: flex;
+}
