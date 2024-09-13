@@ -53,6 +53,7 @@ a {
 
 .section-four {
     height: 350px;
+    align-items: center;
 }
 .hero {
     display: flex;
