@@ -132,4 +132,8 @@ button {
     flex-direction: column;
 }
 
+.quote {
+    font-size: 36px;
+}
+
 
