@@ -170,3 +170,7 @@ button {
     flex-direction: column;
     justify-content: center;
 }
+
+.action-heading {
+    color: white;
+}
